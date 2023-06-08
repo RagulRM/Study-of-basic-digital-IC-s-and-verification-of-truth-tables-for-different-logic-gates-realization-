@@ -86,5 +86,5 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 ![Screenshot 2023-04-06 123112](https://user-images.githubusercontent.com/112475766/230300124-795fb165-9c23-4558-b71f-b8de4dc2fcf6.png)
 
 
-Result:
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
