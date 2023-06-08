@@ -77,13 +77,12 @@ endmodule
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
  ## Developed by: RAGUL R
 ## RegisterNumber:  212222100040
-## Logic symbol & Truthtable
+## Truthtable
 ![Screenshot 2023-04-06 123003](https://user-images.githubusercontent.com/112475766/230299904-3aaa3495-1e95-4c88-9456-e7c5dabcfb86.png)
-
-## Output:
+## WAVEFORM
 ![Screenshot 2023-04-06 123039](https://user-images.githubusercontent.com/112475766/230300023-55c5769f-44a3-4af6-bd95-f8ce5ece646a.png)
 
-## WAVEFORM
+## RTL
 ![Screenshot 2023-04-06 123112](https://user-images.githubusercontent.com/112475766/230300124-795fb165-9c23-4558-b71f-b8de4dc2fcf6.png)
 
 
